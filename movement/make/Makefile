@@ -83,52 +83,7 @@ SRCS += \
   ../watch_faces/complication/orrery_face.c \
   ../watch_faces/complication/astronomy_face.c \
   ../watch_faces/complication/tomato_face.c \
-  ../watch_faces/complication/probability_face.c \
-  ../watch_faces/complication/wake_face.c \
-  ../watch_faces/demo/frequency_correction_face.c \
-  ../watch_faces/complication/alarm_face.c \
-  ../watch_faces/complication/ratemeter_face.c \
-  ../watch_faces/complication/interval_face.c \
-  ../watch_faces/complication/rpn_calculator_alt_face.c \
-  ../watch_faces/complication/stock_stopwatch_face.c \
-  ../watch_faces/complication/tachymeter_face.c \
-  ../watch_faces/settings/nanosec_face.c \
-  ../watch_faces/settings/finetune_face.c \
-  ../watch_faces/complication/databank_face.c \
-  ../watch_faces/complication/tempchart_face.c \
-  ../watch_faces/complication/tally_face.c \
-  ../watch_faces/complication/tarot_face.c \
-  ../watch_faces/complication/morsecalc_face.c \
-  ../watch_faces/complication/rpn_calculator_face.c \
-  ../watch_faces/complication/activity_face.c \
-  ../watch_faces/demo/chirpy_demo_face.c \
-  ../watch_faces/complication/ships_bell_face.c \
-  ../watch_faces/sensor/lightmeter_face.c \
-  ../watch_faces/complication/discgolf_face.c \
-  ../watch_faces/complication/habit_face.c \
-  ../watch_faces/complication/planetary_time_face.c \
-  ../watch_faces/complication/planetary_hours_face.c \
-  ../watch_faces/complication/breathing_face.c \
-  ../watch_faces/clock/repetition_minute_face.c \
-  ../watch_faces/complication/timer_face.c \
-  ../watch_faces/complication/invaders_face.c \
-  ../watch_faces/clock/world_clock2_face.c \
-  ../watch_faces/complication/time_left_face.c \
-  ../watch_faces/complication/randonaut_face.c \
-  ../watch_faces/complication/toss_up_face.c \
-  ../watch_faces/complication/geomancy_face.c \
-  ../watch_faces/clock/simple_clock_bin_led_face.c \
-  ../watch_faces/complication/flashlight_face.c \
-  ../watch_faces/clock/decimal_time_face.c \
-  ../watch_faces/clock/wyoscan_face.c \
-  ../watch_faces/settings/save_load_face.c \
-  ../watch_faces/clock/day_night_percentage_face.c \
-  ../watch_faces/complication/simple_coin_flip_face.c \
-  ../watch_faces/complication/solstice_face.c \
-  ../watch_faces/complication/couch_to_5k_face.c \
-  ../watch_faces/clock/minute_repeater_decimal_face.c \
-  ../watch_faces/complication/tuning_tones_face.c \
-  ../watch_faces/complication/kitchen_conversions_face.c \
+  ../watch_faces/complication/coffee_face.c \
 # New watch faces go above this line.
 
 # Leave this line at the bottom of the file; it has all the targets for making your project.
