@@ -16,6 +16,7 @@ INCLUDES += \
   -I../watch_faces/complication/ \
   -I../watch_faces/sensor/ \
   -I../watch_faces/demo/ \
+  -I../watch_faces/dev/ \
   -I../../littlefs/ \
   -I../lib/chirpy_tx/ \
   -I../lib/TOTP/ \
@@ -84,6 +85,7 @@ SRCS += \
   ../watch_faces/complication/astronomy_face.c \
   ../watch_faces/complication/tomato_face.c \
   ../watch_faces/complication/coffee_face.c \
+  ../watch_faces/dev/reciprocity_face.c \
 # New watch faces go above this line.
 
 # Leave this line at the bottom of the file; it has all the targets for making your project.
