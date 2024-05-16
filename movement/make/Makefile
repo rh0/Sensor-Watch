@@ -79,12 +79,12 @@ SRCS += \
   ../watch_faces/complication/counter_face.c \
   ../watch_faces/complication/blinky_face.c \
   ../watch_faces/complication/moon_phase_face.c \
+  ../watch_faces/complication/interval_face.c \
   ../watch_faces/sensor/accelerometer_data_acquisition_face.c \
   ../watch_faces/clock/mars_time_face.c \
   ../watch_faces/complication/orrery_face.c \
   ../watch_faces/complication/astronomy_face.c \
   ../watch_faces/complication/tomato_face.c \
-  ../watch_faces/complication/coffee_face.c \
   ../watch_faces/dev/reciprocity_face.c \
 # New watch faces go above this line.
 
