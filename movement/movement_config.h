@@ -30,6 +30,7 @@
 const watch_face_t watch_faces[] = {
     simple_clock_face,
     reciprocity_face,
+    timer_face,
     moon_phase_face,
     stopwatch_face,
     preferences_face,
