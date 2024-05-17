@@ -10,7 +10,8 @@
 #include "movement.h"
 
 typedef struct {
-    bool counting;
+    uint8_t char_index;
+    bool animating;
 } reciprocity_state_t;
 
 void reciprocity_face_setup(movement_settings_t *settings, uint8_t watch_face_index, void ** context_ptr);
